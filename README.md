@@ -53,15 +53,32 @@ El objetivo de este análisis es **entender cómo difieren los patrones de uso e
    - Comparación estacional.  
 
 4. **Visualización:**  
-   Se usaron gráficos de barras y líneas para visualizar patrones temporales y diferencias entre tipos de usuario.  
-   ![preview](images/preview.png) <!-- Puedes agregar una imagen de tu notebook aquí -->
-
+   Se usaron gráficos de barras y líneas para visualizar patrones temporales y diferencias entre tipos de usuario.
+   Ejemplo de imagen: Uso semanal miembros vs casuales
+   ![preview](images/dias_memeber_vs_casual.png)
 ---
 
 ## Resultados destacados
 - Los **miembros anuales** tienden a usar las bicicletas en días laborales, con trayectos cortos y recurrentes.  
 - Los **usuarios casuales** prefieren fines de semana y trayectos más largos.  
 - Potenciales estrategias de conversión incluyen descuentos anuales o promociones de verano.
+
+
+---
+
+## 💬 Recomendaciones de negocio
+
+1. **Promociones de fin de semana:**  
+   Ofrecer descuentos en membresías para quienes más usan el servicio sábados y domingos.
+
+2. **Incentivos al commuting:**  
+   Crear planes de fidelización enfocados en trayectos cortos y regulares (usuarios que viajan a diario).
+
+3. **Segmentación por temporada:**  
+   Promocionar la membresía anual con beneficios específicos según época del año (mayor uso en verano).
+
+4. **Comunicación dirigida:**  
+   Resaltar en la app y redes sociales los beneficios económicos y de conveniencia de ser miembro anual.
 
 ---
 
@@ -75,5 +92,6 @@ La metodología usada en este proyecto puede replicarse para otros modelos de su
 - [Notebook en Kaggle](https://www.kaggle.com/code/valmegu/proyecto-cyclistic)
 - [Perfil de LinkedIn](https://www.linkedin.com/in/valeriamedinaguzman/)
 - [Repositorio GitHub](https://github.com/Valmegu/Cyclistic-CaseStudy)
+
 
 
