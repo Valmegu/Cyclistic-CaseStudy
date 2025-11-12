@@ -3,6 +3,7 @@
 ![R](https://img.shields.io/badge/Made%20with-R-blue)
 ![Data Analysis](https://img.shields.io/badge/Type-Data%20Analysis-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **Autor:** Valeria Medina  
 **Herramientas:** R / RStudio / tidyverse / ggplot2  
@@ -13,8 +14,8 @@
 
 ## Descripción
 Este proyecto forma parte del *Google Data Analytics Capstone Case Study*.  
-Cyclistic es una empresa fictisia de bicicletas compartidas con sede en Chicago que busca aumentar la cantidad de **miembros anuales**, ya que generan mayores ingresos que los usuarios casuales.  
-El objetivo de este análisis es **entender cómo difieren los patrones de uso entre ambos grupos** y proponer estrategias basadas en datos para aumentar la conversión de usuarios casuales a suscriptores
+Cyclistic es una empresa ficticia de bicicletas compartidas con sede en Chicago que busca aumentar la cantidad de **miembros anuales**, ya que generan mayores ingresos que los usuarios casuales.  
+El objetivo de este análisis es **entender cómo difieren los patrones de uso entre ambos grupos** y proponer estrategias basadas en datos para aumentar la conversión de usuarios casuales en suscriptores.
 
 ---
 
@@ -54,8 +55,12 @@ El objetivo de este análisis es **entender cómo difieren los patrones de uso e
 
 4. **Visualización:**  
    Se usaron gráficos de barras y líneas para visualizar patrones temporales y diferencias entre tipos de usuario.
-   Ejemplo de imagen: Uso semanal miembros vs casuales
-   ![preview](images/dias_memeber_vs_casual.png)
+
+### Ejemplo visual — Uso semanal: miembros vs. casuales
+<p align="center">
+  <img src="images/dias_memeber_vs_casual.png" width="600">
+</p>
+
 ---
 
 ## Resultados destacados
@@ -84,7 +89,8 @@ El objetivo de este análisis es **entender cómo difieren los patrones de uso e
 
 ## Conclusiones finales
 El análisis demuestra cómo el estudio de los patrones de uso puede guiar decisiones de negocio basadas en datos.  
-La metodología usada en este proyecto puede replicarse para otros modelos de suscripción.
+Los resultados revelan oportunidades claras para aumentar la conversión de usuarios casuales en miembros anuales mediante estrategias de marketing estacional y promociones orientadas al comportamiento real de uso.
+
 
 ---
 
@@ -92,6 +98,7 @@ La metodología usada en este proyecto puede replicarse para otros modelos de su
 - [Notebook en Kaggle](https://www.kaggle.com/code/valmegu/proyecto-cyclistic)
 - [Perfil de LinkedIn](https://www.linkedin.com/in/valeriamedinaguzman/)
 - [Repositorio GitHub](https://github.com/Valmegu/Cyclistic-CaseStudy)
+
 
 
 
