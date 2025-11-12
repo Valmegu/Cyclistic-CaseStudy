@@ -24,7 +24,7 @@ El objetivo de este análisis es **entender cómo difieren los patrones de uso e
 
 ---
 
-## 📊 Resumen del análisis
+## Resumen del análisis
 
 🔹 12 meses de datos (junio 2024 – junio 2025)  
 🔹 5.6 millones de registros originales  
@@ -66,7 +66,7 @@ El objetivo de este análisis es **entender cómo difieren los patrones de uso e
 
 ---
 
-## 💬 Recomendaciones de negocio
+## Recomendaciones de negocio
 
 1. **Promociones de fin de semana:**  
    Ofrecer descuentos en membresías para quienes más usan el servicio sábados y domingos.
@@ -92,6 +92,7 @@ La metodología usada en este proyecto puede replicarse para otros modelos de su
 - [Notebook en Kaggle](https://www.kaggle.com/code/valmegu/proyecto-cyclistic)
 - [Perfil de LinkedIn](https://www.linkedin.com/in/valeriamedinaguzman/)
 - [Repositorio GitHub](https://github.com/Valmegu/Cyclistic-CaseStudy)
+
 
 
 
