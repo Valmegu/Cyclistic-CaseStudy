@@ -1,0 +1,8 @@
+# Forzar a GitHub a interpretar los archivos .ipynb como R (no como Jupyter)
+*.ipynb linguist-language=R
+
+# Dile a GitHub que el contenido de /images no afecta al cálculo del lenguaje
+/images/* linguist-detectable=false
+
+# Asegurar que los archivos de texto usen saltos de línea consistentes
+* text=auto
