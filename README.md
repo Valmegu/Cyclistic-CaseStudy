@@ -4,6 +4,8 @@
 ![Data Analysis](https://img.shields.io/badge/Type-Data%20Analysis-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Coursera](https://img.shields.io/badge/Coursera-Completed-9b7fd6?logo=Coursera&logoColor=ffffff)
+
 
 **Autor:** Valeria Medina  
 **Herramientas:** R / RStudio / tidyverse / ggplot2  
@@ -98,6 +100,7 @@ Los resultados revelan oportunidades claras para aumentar la conversión de usua
 - [Notebook en Kaggle](https://www.kaggle.com/code/valmegu/proyecto-cyclistic)
 - [Perfil de LinkedIn](https://www.linkedin.com/in/valeriamedinaguzman/)
 - [Repositorio GitHub](https://github.com/Valmegu/Cyclistic-CaseStudy)
+
 
 
 
